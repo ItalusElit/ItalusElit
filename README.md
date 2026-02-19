@@ -35,7 +35,10 @@ Estudante de Análise e Desenvolvimento de Sistemas na UCB, focado em Engenharia
 Abaixo estão os repositórios centrais dos meus estudos práticos:
 
 * **[ProjectsC](https://github.com/ItalusElit/ProjectsC):** Focado em fundamentos de computação, manipulação de memória e estruturas de dados (structs) em C.
+
 * **[ProjectsPython](https://github.com/ItalusElit/ProjectsPython):** Aplicação de lógica de programação em scripts voltados para regras de negócio e cálculos financeiros.
+
+* **[ProjectsSQL](https://github.com/ItalusElit/ProjectsSQL):** Modelagem de bancos de dados relacionais, explorando integridade referencial, DDL e DML com foco em arquitetura de dados.
 
 ---
 
