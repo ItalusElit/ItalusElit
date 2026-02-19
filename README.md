@@ -29,15 +29,8 @@ Estudante de Análise e Desenvolvimento de Sistemas na UCB, focado em Engenharia
 ### 📊 Estatísticas
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italuselit&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italuselit&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-      </td>
-    </tr>
-  </table>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italuselit&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italuselit&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <br/>
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=italuselit&theme=tokyonight&layout=compact" />
 </div>
