@@ -6,16 +6,16 @@ Estudante de Análise e Desenvolvimento de Sistemas na UCB, focado em Engenharia
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Stack Tecnológica
 
-**Linguagens & Core:**
+**Core & Backend:**
 <div align="left">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/sql-%2307405E.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
-**Infra & Ferramentas:**
+**Infraestrutura & Ferramentas:**
 <div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
@@ -32,22 +32,14 @@ Estudante de Análise e Desenvolvimento de Sistemas na UCB, focado em Engenharia
 
 ### 🚀 Destaques do Portfólio
 
-* **[ProjectsC](https://github.com/ItalusElit/ProjectsC):** * **Gerenciador de Estoque:** Sistema em C focado em manipulação de structs e lógica de memória. 
-    * *Status: Em desenvolvimento / Primeiro Commit realizado.*
+Abaixo estão os repositórios centrais dos meus estudos práticos:
 
----
-
-### 📊 Estatísticas de Desenvolvedor
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItalusElit&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_bust=1" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItalusElit&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_bust=1" />
-  <br/>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ItalusElit&theme=tokyonight&layout=compact" />
-</div>
+* **[ProjectsC](https://github.com/ItalusElit/ProjectsC):** Focado em fundamentos de computação, manipulação de memória e estruturas de dados (structs) em C.
+* **[ProjectsPython](https://github.com/ItalusElit/ProjectsPython):** Aplicação de lógica de programação em scripts voltados para regras de negócio e cálculos financeiros.
 
 ---
 
 <div align="center">
-  <sub>Projetos desenvolvidos com foco em lógica limpa e eficiência. 🚀</sub>
+  "Santificar o trabalho, santificar-se no trabalho, santificar com o trabalho." <br> 
+  <b>- São José Maria Escrivá</b>
 </div>
