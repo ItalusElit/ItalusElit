@@ -1,6 +1,6 @@
 # 👨‍💻 Ítalo Gabriel
 
-**`Desenvolvedor FullStack`**
+**`Software Engineering Student ou Backend Developer Student`**
 
 Me chamo Ítalo Gabriel de Andrade Silva, tenho 19 anos e sou natural do Distrito Federal. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCB, e também aluno da plataforme online ALURA. Sou entusiasmado por tecnologia desde pequeno.
 
