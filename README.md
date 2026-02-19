@@ -1,16 +1,30 @@
 # 👨‍💻 Ítalo Gabriel
 
-**`Software Engineering Student ou Backend Developer Student`**
+**`Backend Developer Student`**
 
-Me chamo Ítalo Gabriel de Andrade Silva, tenho 19 anos e sou natural do Distrito Federal. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCB, e também aluno da plataforme online ALURA. Sou entusiasmado por tecnologia desde pequeno.
-
+Estudante de Análise e Desenvolvimento de Sistemas na UCB, focado em Engenharia de Software e arquitetura de dados. Sólidos fundamentos em lógica de programação com C e Python, além de domínio em modelagem e manipulação de bancos de dados SQL. Em constante especialização através da Alura, desenvolvendo projetos práticos que unem performance e escalabilidade.
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
+<div align="left">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/sql-%2307405E.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+</div>
+
+**Secundárias:**
+<div align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+</div>
+
 <br/>
-<br/>
+
+---
 
 ### 📊 Estatísticas
 
@@ -23,15 +37,8 @@ Me chamo Ítalo Gabriel de Andrade Silva, tenho 19 anos e sou natural do Distrit
     src="https://github-readme-stats.vercel.app/api?username=italuselit&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
+  <img 
       align="center" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=italuselit&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-<p>
-<img align="center" 
-   height="200" 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=italuselit&theme=tokyonight&layout=compact" alt="ItalusElit" />
-</p>
+      src="
